@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coalProjectFinal", "coalProjectFinal\coalProjectFinal.vcxproj", "{0CA9EB13-1059-4868-B061-DC90618D2EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		ProjApp|ARM = ProjApp|ARM
+		ProjApp|x64 = ProjApp|x64
+		ProjApp|x86 = ProjApp|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|ARM.Build.0 = Debug|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|x64.ActiveCfg = Debug|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|x64.Build.0 = Debug|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Debug|x86.Build.0 = Debug|Win32
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|ARM.ActiveCfg = ProjApp|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|ARM.Build.0 = ProjApp|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|x64.ActiveCfg = Release|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|x64.Build.0 = Release|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|x86.ActiveCfg = ProjApp|Win32
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.ProjApp|x86.Build.0 = ProjApp|Win32
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|ARM.ActiveCfg = Release|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|ARM.Build.0 = Release|ARM
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|x64.ActiveCfg = Release|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|x64.Build.0 = Release|x64
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|x86.ActiveCfg = Release|Win32
+		{0CA9EB13-1059-4868-B061-DC90618D2EBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD52C05-AE3F-46EC-9C02-F60193A9D68B}
+	EndGlobalSection
+EndGlobal
